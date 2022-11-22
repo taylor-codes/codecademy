@@ -8,3 +8,6 @@ A repository containing all of the coursework and notes I have taken from my cou
 
 ## Data Science Courses
 - Data Science Foundations (active)
+
+#Todo: Add links to project dirs
+#Todo: Add DS course to this repo
