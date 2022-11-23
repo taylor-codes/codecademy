@@ -1,0 +1,5 @@
+# Ignore Apple Sys Files
+.DS_Store
+
+# Ignore Unuses Node Modules
+10_basics-of-backend-development/1.modular-dev-with-nodeJS/node_modules/*
