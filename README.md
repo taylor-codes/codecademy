@@ -5,6 +5,7 @@ A repository containing all of the coursework and notes I have taken from my cou
 - Learn Python 3
 - Learn Intermediate Python 3
 - Data Science Foundations (active)
+- Data Structures and Algoritms with Python (active)
 
 ## Data Science Courses
 - Data Science Foundations (active)
