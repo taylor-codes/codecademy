@@ -5,10 +5,10 @@
 ![Alt text](https://static-assets.codecademy.com/Courses/CS102-Data-Structures-And-Algorithms/Nodes/Screen%20Shot%202021-05-07%20at%2010.46.16%20AM.png)
 
 ## Node Implementations
-- Data contained withing a node can be an int, string, decimal, array, or null
+- Data contained withing a node can be an int, string, decimal, array, or `null`
 - Link(s) in the node are referred to as 'pointers' because they point to another node
 - Nodes usually have one or more links
-    - If these links are null, it means that you have reached the end of the particular node or link path you were previously following
+    - If these links are `null`, it means that you have reached the end of the particular node or link path you were previously following
 ![Alt text](https://static-assets.codecademy.com/Courses/CS102-Data-Structures-And-Algorithms/Nodes/CS102_NodeImplementations_2_M2.svg)
 
 ## Node linking
@@ -20,5 +20,5 @@
 ## Recap
 - Nodes contain data, which can be a variety of data types
 - Nodes also contain links to other nodes
-    - If a node has no links, or if they are all null, you have reached the end of the path you were following
+    - If a node has no links, or if they are all `null`, you have reached the end of the path you were following
 - Nodes can be "orphaned" if there are no existing links to them
