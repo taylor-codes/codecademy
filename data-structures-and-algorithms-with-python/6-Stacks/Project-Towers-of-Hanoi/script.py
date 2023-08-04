@@ -69,7 +69,9 @@ def get_input():
 num_user_moves = 0
 
 while right_stack.get_size() != num_disks:
-    print("\n\n...Current Stacks...")
+    print("\n\n-------------------------------------")
+    print(f"Current Moves: {num_user_moves}")
+    print("\n...Current Stacks...")
 
     for i in stacks:
         i.print_items()
@@ -91,5 +93,5 @@ while right_stack.get_size() != num_disks:
             print("\n\nInvalid move. Try again...")
 
 print(
-    f"n\nYou completed the game in {num_user_moves} moves, and the optimal number of moves is {num_optimal_moves}!"
+    f"\nYou completed the game in {num_user_moves} moves, and the optimal number of moves is {num_optimal_moves}!"
 )
